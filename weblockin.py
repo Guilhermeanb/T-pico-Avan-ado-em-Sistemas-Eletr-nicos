@@ -1,7 +1,7 @@
 import time
 import network
 import socket
-from teste import main_lock_in
+from lockin import main_lock_in
 
 # Configuração Wi-Fi
 ssid = 'eel7121'
